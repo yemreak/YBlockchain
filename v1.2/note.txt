@@ -1,0 +1,8 @@
+
+Önemli;
+Bütün bekleyen işlemleri saklayamayız. Blok yapısı
+1mb'ı geçemez. Madenciler yapmak istedikleri işlemleri
+kendileri dahil ederler.
+
+Dk: 5.
+https://www.youtube.com/watch?v=fRV6cGXVQ4I
